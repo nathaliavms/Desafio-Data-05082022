@@ -10,3 +10,16 @@ quantidade de horas trabalhadas e o valor que o funcionário recebe por hora tra
 # Saída
 Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da
 igualdade. No caso do salário, também deve haver um espaço em branco após o $.
+
+
+# Exemplos de Entrada 
+
+25
+
+100
+
+5.50
+# Exemplos de Saída
+
+NUMBER = 25
+SALARY = U$ 550.00
