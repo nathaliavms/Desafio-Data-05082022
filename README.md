@@ -22,4 +22,5 @@ igualdade. No caso do salário, também deve haver um espaço em branco após o 
 # Exemplos de Saída
 
 NUMBER = 25
+
 SALARY = U$ 550.00
